@@ -14,6 +14,7 @@ int main(void)
 	return 0;
 }
 
+
 int rec_func(int n)
 {
 	int sum = 0;
@@ -26,6 +27,4 @@ int rec_func(int n)
 	sum = my + n;
 	printf("sum : %d, my: %d, n: %d\n", sum, my, n);
 	return sum;
-
-
 }
