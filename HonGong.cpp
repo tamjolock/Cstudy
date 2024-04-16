@@ -14,6 +14,7 @@ int main(void)
 	return 0;
 }
 
+
 int rec_func(int n)
 {
 	int sum = 0;
