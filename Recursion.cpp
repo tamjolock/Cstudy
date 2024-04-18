@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+/*#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
 
@@ -27,4 +27,4 @@ int rec_func(int n)
 	sum = my + n;
 	printf("sum : %d, my: %d, n: %d\n", sum, my, n);
 	return sum;
-}
+}*/
