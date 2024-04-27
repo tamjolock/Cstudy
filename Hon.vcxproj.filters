@@ -23,5 +23,8 @@
     <ClCompile Include="pointer.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="coding test.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
