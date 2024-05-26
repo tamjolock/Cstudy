@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Az trans.cpp" />
     <ClCompile Include="coding test.cpp" />
+    <ClCompile Include="lotto.cpp" />
     <ClCompile Include="Recursion.cpp" />
     <ClCompile Include="prime number.cpp" />
     <ClCompile Include="pointer.cpp" />
