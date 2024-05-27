@@ -31,9 +31,9 @@ void input_nums(int* lotto_nums)
 			{	
 				printf("같은 번호가 있습니다.\n");
 				
-				while (input == lotto_nums[j])
+				while (scanf("%d",&input) == lotto_nums[j])
 					printf("정수값 입력 : ");
-					scanf("%d", &input);
+					scanf(" %d", &input);
 					
 			}
 		}
